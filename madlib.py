@@ -1,0 +1,10 @@
+n = input("Noun:")
+v = input("verb:")
+a = input("adjective:")
+vi = input("ing verb:")
+
+print("the "+n+" loved to "+v+". ")
+print("but one day they where felling very "+a+" ")
+print("so they started "+vi+" ")
+print("doing so the "+n+" felt less "+a+" ")
+print("and so "+n+" went to bed")
