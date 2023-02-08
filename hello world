@@ -1,0 +1,11 @@
+
+n = input("name ")
+
+def greet(n):
+    print ("hello "+n+"")
+
+
+greet(n)
+greet("walt")
+greet("kevin")
+greet("steave")
