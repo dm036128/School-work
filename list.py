@@ -1,7 +1,7 @@
 
 import time as t
 import os as o
-todo = ["Filler Text","Filler Text"]
+todo = ["",""]
 num = 1
 def do():
     o.system('cls')
